@@ -106,6 +106,11 @@ plt.ylabel('Frequency')
 plt.tight_layout()
 plt.show()
 ```
+
+
+<img width="785" height="683" alt="image" src="https://github.com/user-attachments/assets/519997d2-96aa-4df6-b2cf-0199c5978414" />
+
+
 ```
 color_img = cv2.imread('/content/marvelous picture of spiderman.jpg')
 
@@ -133,6 +138,11 @@ plt.ylabel('Frequency')
 plt.legend()
 plt.show()
 ```
+
+
+<img width="560" height="355" alt="image" src="https://github.com/user-attachments/assets/14ae9127-7ef7-404f-b31b-6826ff7ba486" />
+
+
 ```
 hsv_img = cv2.cvtColor(color_img, cv2.COLOR_BGR2HSV)
 
@@ -173,6 +183,9 @@ plt.legend()
 plt.tight_layout()
 plt.show()
 ```
+
+<img width="775" height="642" alt="image" src="https://github.com/user-attachments/assets/5b6119e3-efed-4553-92fe-25cdcad69874" />
+
 
 ## Grayscale Histogram Equalization
 
